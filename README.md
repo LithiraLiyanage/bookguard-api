@@ -16,7 +16,7 @@
 ## 🌟 Overview
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500"/>
+  <img src="https://i.imgur.com/8Km9tLL.gif" width="600"/>
 </p>
 
 **BookGuard API** is a backend service designed for **Smart Campus systems** 🏫  

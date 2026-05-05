@@ -15,14 +15,18 @@
 
 ## 🌟 Overview
 
-**BookGuard API** is a backend service designed for **Smart Campus systems** 🏫
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="500"/>
+</p>
+
+**BookGuard API** is a backend service designed for **Smart Campus systems** 🏫  
 It ensures **zero booking conflicts** by validating time slots before saving.
 
 💡 Perfect for:
 
-* 🏢 Room Booking Systems
-* 🧪 Lab Scheduling
-* 🎤 Conference Hall Reservations
+* 🏢 Room Booking Systems  
+* 🧪 Lab Scheduling  
+* 🎤 Conference Hall Reservations  
 
 ---
 
